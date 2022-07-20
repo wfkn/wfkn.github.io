@@ -1,7 +1,5 @@
 # WFKN BetterDiscord Repository
 
-![Total downloads](https://img.shields.io/github/downloads/WFKN/Repository/total) ![License](https://img.shields.io/github/license/WFKN/Repository) ![Commit activity](https://img.shields.io/github/commit-activity/w/WFKN/Repository) ![Discord](https://img.shields.io/discord/952631810397995098?label=support%20server&url=https://discord.gg/RYsm9RWv66)
-
 This repository contains all [BetterDiscord](https://betterdiscord.app/) add-ons made, compiled or forked by [WFKN](https://github.com/WFKN).
 
 ## Requirements
