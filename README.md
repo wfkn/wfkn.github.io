@@ -1,6 +1,6 @@
 # WFKN BetterDiscord Repository
 
-This repository contains all [BetterDiscord](https://betterdiscord.app/) add-ons made, compiled or forked by [WFKN](https://github.com/WFKN).
+This repository contains all [BetterDiscord](https://betterdiscord.app/) add-ons made, compiled or forked by [WFKN](https://github.com/wfkn).
 
 ## Requirements
 
@@ -8,28 +8,28 @@ The custom content provided in this repository requires you to have [BetterDisco
 
 ## Contents
 
-Below you can find the full listing of the custom content compiled by [WFKN](https://github.com/WFKN).
+Below you can find the full listing of the custom content compiled by [WFKN](https://github.com/wfkn).
 
-### [Plugins](https://wfkn.github.io/Repository/Plugins)
+### [Plugins](https://wfkn.github.io/Plugins)
 
 - WFKN Library (State: Concept, Release: TBD)
 
-### [Themes](https://wfkn.github.io/Repository/Themes)
+### [Themes](https://wfkn.github.io/Themes)
 
 - [Simple Black Theme](https://wfkn.github.io/SimpleBlackTheme/) (State: Prerelease, Release: TBD)
 - [Wolfiken Dark Theme](https://wfkn.github.io/WolfikenDarkTheme/) (State: Concept, Release: TBD)
 
-#### [Add-ons](https://wfkn.github.io/Repository/Themes/Add-ons)
+#### [Add-ons](https://wfkn.github.io/Themes/Add-ons)
 
-- ~~Alexis Square Channel Buttons~~ (State: Abandoned)
+- ~~Alexis Square Channel Buttons~~ (State: Discontinued)
 
-### [Forks](https://wfkn.github.io/Repository/Forks)
+### [Forks](https://wfkn.github.io/Forks)
 
-- ~~Alexis Modern Theme~~, forked from [Alexis Modern Discord Theme](https://github.com/AlexisJonsson/Alexisjonsson.github.io/tree/master/BetterDiscordAddons/Themes/) (State: Abandoned)
+- ~~Alexis Modern Theme~~, forked from [Alexis Modern Discord Theme](https://github.com/AlexisJonsson/Alexisjonsson.github.io/tree/master/BetterDiscordAddons/Themes/) (State: On hold)
 
 ### Snippets
 
-- [Custom Channel Buttons](https://gist.github.com/OlavWolfiken/d864568f88a5662c851550d89c9c523c), sourced from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.source.css)
+- ~~[Custom Channel Buttons](https://gist.github.com/OlavWolfiken/d864568f88a5662c851550d89c9c523c)~~, sourced from [Alexis Modern Discord Theme](https://alexisjonsson.github.io/BetterDiscordAddons/Themes/modern-discord.theme.source.css) (State: Unmaintained)
 
 ## Installation
 
